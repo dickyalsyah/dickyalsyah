@@ -12,11 +12,3 @@
 - 💬 Ask me about **AI/ML, Startup, and App Development**
 
 - 📫 How to reach me **hej@dickyalsyah.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://x.com/dickyalsyah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="dickyalsyah" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/dickyalsyah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dickyalsyah" height="30" width="40" /></a>
-  <a href="https://instagram.com/dickyalsyah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dickyalsyah" height="30" width="40" /></a>
-  <a href="https://medium.com/@dickyalsyah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dickyalsyah" height="30" width="40" /></a>
-</p>
